@@ -1,0 +1,14 @@
+﻿  源.cpp
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(5): warning C4101: “stu”: 未引用的局部变量
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\kelly\documents\visual studio 2017\projects\cfile\cfile\源.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  cFILE.vcxproj -> C:\Users\Kelly\documents\visual studio 2017\Projects\cFILE\Debug\cFILE.exe
+  cFILE.vcxproj -> C:\Users\Kelly\documents\visual studio 2017\Projects\cFILE\Debug\cFILE.pdb (Partial PDB)
